@@ -1,7 +1,9 @@
 # lab_comp_simulacao_MAP2212
-Exercícios Programa da disciplina MAP2212 (Laboratório de Computação e Simulação) do Instituto de Matemática e Estatística da Universidade de São Paulo (IME-USP)
+Exercícios Programa da disciplina MAP2212 (Laboratório de Computação e Simulação)
 
-EP 1 - Aproximando Pi com o Método Estocástico de Monte Carlo (autor: Milton Leal) \
+Instituto de Matemática e Estatística da Universidade de São Paulo (IME-USP)
+
+EP 1 - Aproximando Pi com o Método Estocástico de Monte Carlo (autor: Milton Leal)
 
 EP 2 - Calculando integrais com métodos estocásticos de Monte Carlo (autor: Milton Leal)
 
