@@ -1,5 +1,5 @@
-# lab_comp_simulacao_MAP2212
-Exercícios Programa da disciplina MAP2212 (Laboratório de Computação e Simulação)
+# Laboratório de Computação e Simulação - MAP 2212
+Exercícios Programa da disciplina
 
 Instituto de Matemática e Estatística da Universidade de São Paulo (IME-USP)
 
